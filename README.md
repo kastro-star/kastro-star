@@ -4,7 +4,7 @@ HI Developers
 I am a highly skilled Web Developer and AI Data Engineer with a passion for creating innovative, cutting-edge solutions
 
 
-(https://github.com/user-attachments/assets/81c497c6-a459-44c0-92f4-2ad1fd165d47)
+https://github.com/user-attachments/assets/81c497c6-a459-44c0-92f4-2ad1fd165d47
 
  About Me
           
