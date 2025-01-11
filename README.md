@@ -3,8 +3,7 @@ HI Developers
 "Welcome to my profile I'm Kastro
 I am a highly skilled Web Developer and AI Data Engineer with a passion for creating innovative, cutting-edge solutions
 
-
-https://github.com/user-attachments/assets/81c497c6-a459-44c0-92f4-2ad1fd165d47
+![gitpro](https://github.com/user-attachments/assets/4fa257ea-6cc1-4e7e-bb2b-3d9e510f6001)
 
  About Me
           
